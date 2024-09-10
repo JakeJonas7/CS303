@@ -1,22 +1,28 @@
 Include four files in Visual Studio. Generates a menu that accepts a user input for running each function.
 
 Function 1 -
-![image](https://github.com/user-attachments/assets/96967d87-00ba-4b96-a7fc-7611ea110b3e)
+![image](https://github.com/user-attachments/assets/28f6bb81-58c0-4186-952b-19c650c87576)
+
 
 Function 2 - 
-![image](https://github.com/user-attachments/assets/98b5ad63-fcf2-4d96-b729-28b92583ce40)
+![image](https://github.com/user-attachments/assets/5832911e-1aca-4ab6-9a46-528177ecbd32)
+
 
 Function 3 -
-![image](https://github.com/user-attachments/assets/1a219a6c-ca39-4c37-b3ae-8317979ba4b6)
+![image](https://github.com/user-attachments/assets/81d19c86-ba6c-4392-8e53-3f304e38a357)
+
 
 Function 4 - 
-![image](https://github.com/user-attachments/assets/c3abaef6-b01c-4a78-b0e8-07dc22d32da1)
+![image](https://github.com/user-attachments/assets/a9437ec0-b5c6-4319-9bc9-2d5febca9cfd)
+
 
 Q2 - 
-![image](https://github.com/user-attachments/assets/e7fe4855-fcf4-478f-abc9-c20a3dfe941d)
+![image](https://github.com/user-attachments/assets/58f4eb05-96d1-4a78-8be0-2573dafefde1)
+
 
 Example Output - 
-![image](https://github.com/user-attachments/assets/5856a28d-526e-4d66-ba0e-96143dd9d4b5)
+![image](https://github.com/user-attachments/assets/2b26af45-9dcc-481c-8e16-98cf8a7f0e05)
+
 
 
 
